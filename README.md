@@ -19,7 +19,7 @@ Cómo usar este repositorio
 
 Contacto
 Si tienes alguna pregunta o quieres hablar sobre posibles oportunidades de colaboración, no dudes en ponerte en contacto conmigo:
-- Correo electrónico: emanuel.guadamuz@outlook.com
+- Correo electrónico: 69manuel.guadamuz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/69manuelguadamuz/
 
 Licencia
