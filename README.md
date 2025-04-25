@@ -1,4 +1,4 @@
-# portfolio-projects
+# data-analyst-portfolio
 
 Portafolio de Analista de Datos
 ¡Bienvenido a mi Portafolio de Analista de Datos! Este repositorio muestra mi trabajo en diversos proyectos de análisis de datos, demostrando mis habilidades en limpieza de datos, análisis exploratorio de datos (EDA), visualización de datos y generación de informes.
