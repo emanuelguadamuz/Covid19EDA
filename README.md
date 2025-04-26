@@ -1,4 +1,4 @@
-# covid19eda
+# covid19-eda
 
 COVID-19 Exploratory Data Analysis.
 En este proyecto se crearon consultas en SQL Server para explorar y analizar datos globales de COVID-19 para descubrir información sobre la propagación, el impacto y la progresión de la pandemia en países y continentes.
@@ -6,7 +6,7 @@ En este proyecto se crearon consultas en SQL Server para explorar y analizar dat
 Cómo usar este repositorio.
 1. Clonar el repositorio:
    Para empezar a explorar mis proyectos, clona este repositorio en tu equipo local usando Git:
-   git clone https://github.com/emanuelguadamuz/covid19eda.git
+   git clone https://github.com/emanuelguadamuz/covid19-eda.git
 2. Ejecutar scripts SQL:
    Para cada proyecto, sigue las instrucciones de la carpeta correspondiente para ejecutar
    consultas SQL en tu entorno SQL (PostgreSQL, MySQL, SQLite, etc.).
