@@ -3,7 +3,7 @@
 Portafolio de Analista de Datos.
 ¡Bienvenido a mi Portafolio de Analista de Datos! Este repositorio muestra mi trabajo en diversos proyectos de análisis de datos, demostrando mis habilidades en limpieza de datos, análisis exploratorio de datos (EDA), visualización de datos y generación de informes.
 
-Proyectos
+Proyectos.
 Aquí encontrará los detalles de cada proyecto, incluyendo descripciones, metodologías y enlaces a informes y visualizaciones.
 
 Cómo usar este repositorio
@@ -17,10 +17,10 @@ Cómo usar este repositorio
    Cada proyecto incluye enlaces a informes de Power BI o Tableau. Puedes descargar estos
    archivos para explorar los dashboards de forma interactiva.
 
-Contacto
+Contacto.
 Si tienes alguna pregunta o quieres hablar sobre posibles oportunidades de colaboración, no dudes en ponerte en contacto conmigo:
 - Correo electrónico: 69manuel.guadamuz@gmail.com
 - LinkedIn: https://www.linkedin.com/in/69manuelguadamuz/
 
-Licencia
+Licencia.
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo de LICENCIA para obtener más información.
