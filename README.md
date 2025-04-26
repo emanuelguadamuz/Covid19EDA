@@ -1,12 +1,9 @@
-# data-analyst-portfolio
+# covid19eda
 
-Portafolio de Analista de Datos.
-¡Bienvenido a mi Portafolio de Analista de Datos! Este repositorio muestra mi trabajo en diversos proyectos de análisis de datos, demostrando mis habilidades en limpieza de datos, análisis exploratorio de datos (EDA), visualización de datos y generación de informes.
+COVID-19 Exploratory Data Analysis.
+En este proyecto se crearon consultas en SQL Server para explorar y analizar datos globales de COVID-19 para descubrir información sobre la propagación, el impacto y la progresión de la pandemia en países y continentes.
 
-Proyectos.
-Aquí encontrará los detalles de cada proyecto, incluyendo descripciones, metodologías y enlaces a informes y visualizaciones.
-
-Cómo usar este repositorio
+Cómo usar este repositorio.
 1. Clonar el repositorio:
    Para empezar a explorar mis proyectos, clona este repositorio en tu equipo local usando Git:
    git clone https://github.com/emanuelguadamuz/data-analyst-portfolio.git
