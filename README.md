@@ -20,7 +20,7 @@ Cómo usar este repositorio
 Contacto.
 Si tienes alguna pregunta o quieres hablar sobre posibles oportunidades de colaboración, no dudes en ponerte en contacto conmigo:
 - Correo electrónico: 69manuel.guadamuz@gmail.com
-- LinkedIn: https://www.linkedin.com/in/69manuelguadamuz/
+- Linkedin: https://www.linkedin.com/in/69manuelguadamuz/
 
 Licencia.
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo de LICENCIA para obtener más información.
