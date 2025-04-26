@@ -6,7 +6,7 @@ En este proyecto se crearon consultas en SQL Server para explorar y analizar dat
 Cómo usar este repositorio.
 1. Clonar el repositorio:
    Para empezar a explorar mis proyectos, clona este repositorio en tu equipo local usando Git:
-   git clone https://github.com/emanuelguadamuz/data-analyst-portfolio.git
+   git clone https://github.com/emanuelguadamuz/covid19eda.git
 2. Ejecutar scripts SQL:
    Para cada proyecto, sigue las instrucciones de la carpeta correspondiente para ejecutar
    consultas SQL en tu entorno SQL (PostgreSQL, MySQL, SQLite, etc.).
