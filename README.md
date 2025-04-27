@@ -1,6 +1,6 @@
 # covid19-eda
 
-COVID-19 Exploratory Data Analysis.
+Análisis Exploratorio de Datos de COVID-19.
 En este proyecto se crearon consultas en SQL Server para explorar y analizar datos globales de COVID-19 para descubrir información sobre la propagación, el impacto y la progresión de la pandemia en países y continentes.
 
 Cómo usar este repositorio.
